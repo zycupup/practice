@@ -13,7 +13,7 @@ public class debugTest {
               
             sum+=moneyEachDay;
               
-            System.out.println(i + " 天之后，洪帮主手中的钱总数是: " + sum );
+            System.out.println(i + " 天之后，乔帮主手中的钱总数是: " + sum );
         }
     }
 }
